@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center">Frontend developer - Paris, France</h3>
 
-- 🔭 I’m currently working on **my portfolio**
-
 - 📫 How to reach me **karenmaciel@outlook.fr**
 
 - ⚡ Fun fact **I love coding, reading, roller skating, crochet & cats**
